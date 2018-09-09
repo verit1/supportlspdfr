@@ -1,1 +1,1 @@
-lspdfr: node app.js
+lspdfr: node index.js
